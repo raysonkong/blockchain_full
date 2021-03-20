@@ -7,7 +7,12 @@ class Block {
     }
 }
 
+
 module.exports = Block;
 
 //fooblock = new Block({timestamp:'today',lastHash:'lasthash@@@', hash: 'hashxyz', data: 'data is Guitar'})
 //console.log(fooblock)
+
+//fooblock = new Block({timestamp:'today',lastHash:'lasthash@@@', hash: 'hashxyz', data: 'data is Guitar'})
+//console.log(fooblock)
+
